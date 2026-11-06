@@ -103,10 +103,81 @@ Identified order tracking as a promising automation opportunity, with potential 
 ---
 
 # Day 3 – AI Solution Evaluation
+# Day 3 – AI Solution Evaluation
 
-**Status:** Pending
+**Status:** Completed
 
-To be completed.
+## 1. Business Constraints
+
+- Monthly customer queries: 1,000
+- Order tracking queries: 300
+- Available budget: ₹25,000
+- Development team: 2 developers
+- Implementation deadline: 30 days
+
+## 2. Evaluation Criteria
+
+Three criteria were considered when evaluating the proposed solutions:
+
+1. **Business impact:** How much support workload and operational cost can be reduced?
+2. **Customer experience:** Will customers receive better shipment information and experience less uncertainty?
+3. **Financial and operational feasibility:** Can the solution be implemented within the available budget, technical resources and timeline?
+
+## 3. Proposed Solutions
+
+- **Option A – Traditional tracking system:** Customers enter their order ID to view shipment status.
+- **Option B – Automated notifications:** Customers receive proactive WhatsApp, SMS or email updates.
+- **Option C – AI-powered support assistant:** Customers interact with an AI assistant to retrieve order information and ask follow-up questions.
+
+## 4. Final Recommendation: A + B
+
+Start with a traditional tracking system combined with automated shipment notifications.
+
+Order tracking is repetitive and predictable. Proactive updates could reduce unnecessary customer queries and improve shipment visibility.
+
+Before developing a new tracking page, GlowCare should investigate whether an existing tracking feature can be reused or integrated.
+
+An AI assistant should be considered later if significant unresolved customer queries remain.
+
+## 5. Customer Validation Strategy
+
+After implementation, evaluate customer feedback and actual customer behaviour.
+
+Key metrics:
+
+1. Reduction in order-tracking support queries.
+2. Tracking-link engagement.
+3. Queries resolved without human intervention.
+4. Customer satisfaction (CSAT).
+5. Average response and resolution time.
+
+Customer surveys can provide supporting insights, but actual usage data should guide further investment decisions.
+
+## 6. Key Risks and Mitigation
+
+**Risk 1 – Technical integration failure**
+
+Incorrect or outdated shipment data could result in misleading customer updates.
+
+Mitigation: Validate integrations and test different shipment scenarios before deployment.
+
+**Risk 2 – Customer dissatisfaction**
+
+Incorrect, delayed or unwanted notifications could reduce customer trust.
+
+Mitigation: Ensure notification accuracy, respect customer messaging preferences and provide access to human support.
+
+## 7. Expected Business Impact
+
+The proposed approach could reduce repetitive support workload, improve shipment visibility and increase customer confidence.
+
+These are expected benefits, not verified results. Actual improvements must be measured through a pilot.
+
+## 8. Day 3 Outcome
+
+Recommended a phased automation approach combining a tracking system and automated notifications.
+
+Further AI adoption should depend on customer behaviour, operational results and financial feasibility.
 
 # Day 4 – Financial Analysis & ROI
 
